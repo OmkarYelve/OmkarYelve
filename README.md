@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Omkar Yelve
+Hi 👋, My name is Omkar Yelve
 ====================================================================================================================================
 
-Web developer
+Welcome to my GitHub profile! I'm a passionate Developer who loves building cool stuff, solving real-world problems, and constantly learning new technologies.
+
 -------------
 
 * 🌍  I'm based in Mumbai, India
