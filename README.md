@@ -47,9 +47,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer based in **M
 ### 📊 GitHub Stats
 
 <a href="https://github.com/OmkarYelve">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OmkarYelve&show_icons=true&hide_border=true&theme=radical" />
-</a>
-<a href="https://github.com/OmkarYelve">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelve&layout=compact&hide_border=true&theme=radical" />
 </a>
 
