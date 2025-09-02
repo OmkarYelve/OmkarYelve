@@ -55,5 +55,5 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer based in **M
 
 ---
 
-> 🧠 "The only way to learn to code is to code." — Me, every day.
+> 🧠 "The only way to learn to code is to code."
 
