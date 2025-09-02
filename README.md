@@ -44,13 +44,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer based in **M
 
 ---
 
-### 📊 GitHub Stats
 
-<a href="https://github.com/OmkarYelve">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelve&layout=compact&hide_border=true&theme=radical" />
-</a>
-
----
 
 ### 📌 Featured Project
 ![Made with MERN](https://img.shields.io/badge/Made%20with-MERN-blueviolet?style=for-the-badge&logo=mern&logoColor=white)
